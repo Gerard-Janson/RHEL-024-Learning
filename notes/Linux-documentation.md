@@ -1,6 +1,6 @@
 # 03. Documentation
 
-_Video length: 2 min | Status: done_
+_ Status: done_
 
 ## Goal
 
@@ -18,7 +18,6 @@ Practice using man pages to look up commands and config file formats, including 
 $ man tar
 ```
 
-![man tar page](../screenshots/03-man-tar.png)
 
 ```bash
 $ man tar
@@ -26,8 +25,6 @@ $ man tar
 n
 q
 ```
-
-![searching inside man tar with /zip and n](../screenshots/03-man-search.png)
 
 ```bash
 $ man 5 crontab
@@ -41,7 +38,6 @@ $ man man
 ```bash
 $ man cd
 ```
-![man cd - manual of change directory](../screenshots/03-man-cd.png)
 
 ## Notes
 
